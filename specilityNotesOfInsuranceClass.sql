@@ -1,0 +1,1 @@
+ALTER TABLE md_health_insurance_class CHANGE `Special_Notes` `Special_Notes` VARCHAR(1000) CHARSET utf8 COLLATE utf8_general_ci NULL;
